@@ -1,0 +1,1 @@
+Script that gets the server, databases and sql instance information
